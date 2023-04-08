@@ -1,15 +1,25 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Our vision",
+  "text": "to create a community where young people are empowered to be agents of positive change in their communities. Through our projects, we aim to collaborate and work together to address local and global challenges. Therefore we fixed the following big milestones to reach our goals",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "orientation",
+      "content": "launch the first orientation platform for students entrepreneurs and NGOs;",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Hackatons",
+      "content": "Annual Hackatons for students, entrepreneurs and startups;.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "beneficiaries",
+      "content": "Orient 1000 beneficiaries by the end of 2024;",
+      "icon": "notes.svg"
+    },
+    {
+      "title": " diversity, inclusivity",
+      "content": "Promoting values as diversity, inclusivity",
       "icon": "notes.svg"
     }
   ]

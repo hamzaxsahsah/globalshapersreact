@@ -1,12 +1,12 @@
 {
-  "title": "Landing page template for developers & startups",
-  "text": "Beautifully designed templates using React.js, ant design and styled-components! Save weeks of time and build your landing page in minutes.",
+  "title": "Unleash your potential",
+  "text": "Global Shapers Laayoune hub is led by young people who are exceptional in their potential, their achievement and their drive to make a contribution to their communities.",
   "button": [
     {
       "title": "Explore"
     },
     {
-      "title": "Learn more",
+      "title": "More About us",
       "color": "#fff"
     }
   ]

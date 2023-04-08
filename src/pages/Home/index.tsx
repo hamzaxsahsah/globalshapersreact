@@ -11,6 +11,7 @@ const MiddleBlock = lazy(() => import("../../components/MiddleBlock"));
 const Container = lazy(() => import("../../common/Container"));
 const ScrollToTop = lazy(() => import("../../common/ScrollToTop"));
 const ContentBlock = lazy(() => import("../../components/ContentBlock"));
+const Video = lazy(() => import("../../components/Video"));
 
 const Home = () => {
   return (
@@ -24,6 +25,18 @@ const Home = () => {
         icon="logogsl.svg"
         id="intro"
       />
+      <div className="video-responsive">
+        <iframe
+      width="853"
+      height="480"
+      src={`https://www.youtube.com/embed/aINK83uxldY`}
+      frameBorder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowFullScreen
+      title="Embedded youtube"
+    />
+      </div>
+
       <MiddleBlock
         title={MiddleBlockContent.title}
         content={MiddleBlockContent.text}
